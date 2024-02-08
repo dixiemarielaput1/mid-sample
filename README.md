@@ -5,18 +5,18 @@ This is the repository for our midterm project in MMED1054 Multimedia Authoring.
 
 Welcome to our Midterm Project Showcase about a furry face-off between Cat and Dog. Please check out our website.
 
-# Contributing
+## History
+Created on February 8,2024.
+
+## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-# History
-Created on February 8,2024.
-
-# Credits
+## Credits
 Tanya Huertas and Dixie Laput.
 
-# License 
+## License 
 MIT License Year 2024
